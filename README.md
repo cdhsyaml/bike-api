@@ -1,4 +1,4 @@
-# Bike Index API Website JavaScript/Jasmine-karma week-one Project
+# Bike Index API Website JavaScript/Asynchrpny API week-two Project
 
 #### Bike Index API Application, September 08 2017
 
